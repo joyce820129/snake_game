@@ -41,6 +41,8 @@ https://youtu.be/dcyxiAzyniY
 
 ## Pin腳位:
 `使用EP3C10E144C8`
+![111](https://github.com/joyce820129/snake_game/assets/104434994/7c9744d1-ebfe-48bb-951c-84464b5f5d5b)
+![222](https://github.com/joyce820129/snake_game/assets/104434994/4c4304a6-6e2b-4554-80e9-304f5adaabd1)
 <table>
   <tr>
     <th>操控功能</th>
